@@ -4,6 +4,8 @@
   "description": "RFK SVG dragging POC",
   "main": "src/index.js",
   "dependencies": {
+    "sat": "^0.8.0",
+    "svgjs": "^2.6.2",
     "webpack": "^4.31.0"
   },
   "devDependencies": {
